@@ -1,0 +1,84 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<estadios>
+	<locacion>
+		<imagen>estadio1.jpg</imagen>
+		
+	</locacion>
+	<locacion>
+		<imagen>estadio2.jpg</imagen>
+		
+	</locacion>	
+		<locacion>
+		<imagen>estadio3.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio4.jpg</imagen>
+		
+	</locacion>
+	<locacion>
+		<imagen>estadio5.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio6.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio7.jpg</imagen>
+		
+	</locacion>
+
+		<locacion>
+		<imagen>estadio8.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio9.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio10.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio11.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio12.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio13.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio14.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio15.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio16.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio17.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio18.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio19.jpg</imagen>
+		
+	</locacion>
+		<locacion>
+		<imagen>estadio20.jpg</imagen>
+		
+	</locacion>
+</estadios>
